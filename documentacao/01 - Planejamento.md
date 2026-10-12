@@ -44,16 +44,5 @@ Cada switch conecta dois computadores, formando a estrutura física que será ut
 
 A topologia física foi montada no Cisco Packet Tracer.
 
-As conexões entre computadores e switches apresentaram indicadores verdes. As conexões entre switches e roteador apresentaram indicadores vermelhos, indicando a necessidade de verificar e ativar as interfaces do roteador.
+**As conexões entre computadores e switches apresentaram indicadores verdes. As** **conexões entre switches e roteador apresentaram indicadores vermelhos, indicando a necessidade de verificar e ativar as interfaces do roteador.**
 
-## 7. Próximas etapas
-
-- Configurar as interfaces do roteador.
-    
-- Atribuir endereços IPv4 aos computadores.
-    
-- Realizar testes de conectividade com ping.
-    
-- Analisar pacotes ARP e ICMP.
-    
-- Registrar evidências dos testes.
