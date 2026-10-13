@@ -19,8 +19,7 @@ A infraestrutura é composta por:
     
 - 2 redes IPv4 distintas
 
-![[8- topologia final.png]]
-  
+![Topologia final do laboratório](evidencias/8-%20topologia%20final.png)  
 
 ## Planejamento de endereçamento
 
@@ -51,8 +50,7 @@ Os endereços de .1 até .9 foram excluídos da distribuição automática em ca
 Foram realizados testes ICMP entre computadores da mesma rede e de redes diferentes.
 
 Os resultados confirmaram a comunicação local e o funcionamento do roteamento IPv4 entre as duas redes.
-![[7- Teste de conectividade entre redes.png]]
-
+![Teste de conectividade entre redes](evidencias/7-%20Teste%20de%20conectividade%20entre%20redes.png)
 ## Tecnologias e conceitos utilizados
 
 - Cisco Packet Tracer
